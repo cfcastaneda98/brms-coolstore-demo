@@ -358,6 +358,8 @@
 		</dependencies>
 	</dependencyManagement>
 	<properties>
+		<sonar.organization>cfcastaneda98</sonar.organization>
+ 		 <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<!-- Explicitly declaring the source encoding eliminates the following 
 			message: -->
 		<!-- [WARNING] Using platform encoding (UTF-8 actually) to copy filtered 
